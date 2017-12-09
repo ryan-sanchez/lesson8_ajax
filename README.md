@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Ryan Sanchez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we used AJAX to interact with a server and present movie information. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ryan-sanchez.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The interaction between AJAX and the server is amazing, and allows for instantaneous results on queries, as well as other fascinating options.
+2. AJAX is used on almost all major websites, such as how Google provides related searches instantly.
+3. JSON is easy to implement and allows for the storage and interaction of data.
